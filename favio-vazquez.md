@@ -4,3 +4,4 @@
 - **Country of Birth**: Venezuela
 - **Favorite Food**: Pizza
 - **Hobby**: Playing drums
+- **Favorite Color**: Blue
