@@ -5,3 +5,4 @@
 - **Favorite Food**: Pizza
 - **Hobby**: Playing drums
 - **Favorite Color**: Blue
+- **Favorite Flavor**: Mango
